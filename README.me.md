@@ -12,7 +12,7 @@ Este vídeo de 17 sc minuto apresenta uma visão rápida e envolvente do potenci
 ## 🚀 Resultados
 O vídeo demonstra duas criação de avatar  criadas pela IA gerenerativa, e um  video de criação 100% humano. O intuito é transmitir  
 para as pessoas o que uma IA generativa poder fazer. E também  saber comparar o real  do artificial.
-[LINK PARA O VÍDEO AQUI]()
+[LINK PARA O VÍDEO AQUI](Output/natty-or-not.mp4)
 
 ## 💭 Reflexão
 Este projeto foi resultado do curso  Santander 2024 - Fundamentos de IA para Devs da plataforma de curso (https://web.dio)
