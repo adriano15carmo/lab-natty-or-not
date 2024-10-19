@@ -1,7 +1,7 @@
-# Vídeo: Um Minuto no Futuro das IAs Generativas 🎥
+# Vídeo: Um 17sc no Futuro das IAs Generativas 🎥
 
 ## 📒 Descrição
-Este vídeo de 1 minuto apresenta uma visão rápida e envolvente do potencial e da aplicação das IAs Generativas na vida cotidiana.
+Este vídeo de 17 sc minuto apresenta uma visão rápida e envolvente do potencial e da aplicação das IAs Generativas na vida cotidiana.
 
 ## 🤖 Tecnologias Utilizadas
 - Editor de video **[Movavi](https://www.movavi.com/**;
